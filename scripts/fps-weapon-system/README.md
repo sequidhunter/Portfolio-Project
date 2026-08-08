@@ -7,4 +7,3 @@ It's not the greatest, I know the networking could probably be better, but I'm n
 
 I could add some checks for it, but the system is currently unfinished, and I'm still developing it.
 I'm personally not too crazy with anti-cheats, and since this is a PVE game, It's not currently a priority, especially because it's early in development.
-
