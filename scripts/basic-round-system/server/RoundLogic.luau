@@ -1,5 +1,7 @@
 --!strict
 
+--Types
+
 export type RoundLogic = {
 
 	Intermission : () -> (),
@@ -8,9 +10,13 @@ export type RoundLogic = {
 
 }
 
+--Services
+
 local Players = game:GetService("Players")
 
 --This can be replaced with other round logic, this is just a basic template with existing logic.
+
+--Modules
 
 local Spawnpoints = workspace:WaitForChild("SpawnPoints")
 local MainSpawn = workspace:WaitForChild("MainSpawn")
